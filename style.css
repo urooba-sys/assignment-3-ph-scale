@@ -1,0 +1,54 @@
+body{background-color: #c1c7c6;}
+
+h1{background-color: #e2e7e7;
+color: black;
+padding: 20px;
+margin: 30px;}
+
+p {color: white;
+
+margin: 0px 30px 0px 30px ;
+padding: 20px;}
+
+
+.fourteen{ background-color: #2e8ccd;
+}
+
+.thirteen{background-color: #329bd5;
+}
+
+.twelve{background-color: #32a7dd;
+}
+
+.eleven{background-color: #41b2e3;
+padding: 20px;}
+
+.ten{background-color:#5ac2eb;
+}
+
+.nine{background-color:#73cdef;
+}
+
+.eight{background-color: #89d3f1;
+}
+
+.seven{background-color:#36bd86;
+}
+
+.six{background-color: #fbb2d2;
+}
+
+.five{background-color: #fd9fc9;
+}
+
+.four{background-color: #fd8ebd;
+}
+
+.three{background-color: #fd79af;
+}
+
+.two{background-color: #fe689f;}
+
+.one{background-color:#fe5a93;}
+
+.zero{background-color:#fe4285;}
